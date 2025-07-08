@@ -40,9 +40,9 @@ Writes account data and recent transactions to accounts.txt, ensuring persistenc
 
 ## How to Compile and Run (Locally)
 **On Windows/Linux/macOS:**
-Make sure you have g++ installed. Open terminal inside the project folder:
-Command for compilation: g++ main.cpp -o bankApp
-Command for output: ./bankApp           # Use bankApp.exe if you're on Windows CMD
+-Make sure you have g++ installed. Open terminal inside the project folder:
+-Command for compilation: g++ main.cpp -o bankApp
+-Command for output: ./bankApp           # Use bankApp.exe if you're on Windows CMD
 ## OUTPUT: 
 # Menu
 ![image](https://github.com/user-attachments/assets/21631ca4-28fc-4fbb-b7dc-c941097c3982)
