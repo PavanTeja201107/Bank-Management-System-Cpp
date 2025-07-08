@@ -50,7 +50,8 @@ Steps:
 ## Screenshots
 
 **Menu**  
-![image](https://github.com/user-attachments/assets/21631ca4-28fc-4fbb-b7dc-c941097c3982)
+![image](https://github.com/user-attachments/assets/21631ca4-28fc-4fbb-b7dc-c941097c3982)  
+
 **Sample Output**  
 ![image](https://github.com/user-attachments/assets/d6e90f33-64f8-4811-b51e-e6c371c479d4)
 
