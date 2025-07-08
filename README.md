@@ -19,37 +19,33 @@ A robust, secure, and scalable terminal-based application written in **C++** tha
   - `<iostream>`, `<fstream>`, `<stack>`, `<unordered_map>`, `<string>`, `<chrono>`
 
 ## Key Components
-# createAccount()
+
+**createAccount()**
 Generates unique account number and token using chrono, verifies user input, and stores new accounts in an unordered_map.
 
-# accessAccount()
+**accessAccount()**
 Provides secure access using token and PIN.
 
-# deposit() / withdraw()
+**deposit() / withdraw()**
 Performs balance update after validations, logs transaction in a stack.
 
-# transfer()
+**transfer()**
 Transfers funds securely between two verified accounts, logs transactions for both.
 
-# TransactionStack
+**TransactionStack**
 A stack implementation to store, view, and export last N transactions.
 
-# saveAccountToFile()
+**saveAccountToFile()**
 Writes account data and recent transactions to accounts.txt, ensuring persistence across sessions.
 
 ## How to Compile and Run (Locally)
-🔹 On Windows/Linux/macOS:
+**On Windows/Linux/macOS:**
 Make sure you have g++ installed. Open terminal inside the project folder:
-g++ main.cpp -o bankApp
-./bankApp           # Use bankApp.exe if you're on Windows CMD
+Command for compilation: g++ main.cpp -o bankApp
+Command for output: ./bankApp           # Use bankApp.exe if you're on Windows CMD
 ## OUTPUT: 
 # Menu
 ![image](https://github.com/user-attachments/assets/21631ca4-28fc-4fbb-b7dc-c941097c3982)
 # Sample Output
-Account Holder: John Doe
-Account Number: 07103457
-Balance: 5200.00
-Transaction History:
-Deposit of 500.00
-Transfer of 200.00 to Alice (Account Number: 07103458)
---------------------------------------
+![image](https://github.com/user-attachments/assets/d6e90f33-64f8-4811-b51e-e6c371c479d4)
+
