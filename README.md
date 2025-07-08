@@ -44,10 +44,9 @@ Make sure you have g++ (GNU Compiler) installed on your system. You can use Term
 Steps:
 1. Open terminal in your project folder
 2. Compile the C++ file: g++ main.cpp -o bankApp
-3. Run the program:
-        On Linux/macOS: ./bankApp
-        On Windows (CMD or PowerShell):
-bankApp.exe
+3. Run the program:  
+        On Linux/macOS: ./bankApp  
+        On Windows (CMD or PowerShell): bankApp.exe  
 ## Screenshots
 **Menu**
 ![image](https://github.com/user-attachments/assets/21631ca4-28fc-4fbb-b7dc-c941097c3982)
