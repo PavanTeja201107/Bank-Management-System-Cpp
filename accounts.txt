@@ -1,0 +1,11 @@
+Account Holder: pt
+Account Number: 7081654
+Balance: 500
+Transaction History:
+--------------------------------------
+Account Holder: pt
+Account Number: 7081654
+Balance: 1000
+Transaction History:
+Deposit of 500
+--------------------------------------
